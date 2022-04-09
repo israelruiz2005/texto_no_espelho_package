@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="texto_no_espelho",
-    version="0.0.1",
+    version="0.0.2",
     author="Israel Ruiz",
     author_email="israelruiz2005@gmail.com",
     description="Texto no espelho",
